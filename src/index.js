@@ -63,5 +63,7 @@ colors()
 To run application:
 node ~/code-challenge/src/index.js true false true true false '["green","blue", "white", "red", "black"]'
 OR
+
 node ~/code-challenge/src/index.js sync white
+
 */
